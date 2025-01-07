@@ -5,7 +5,7 @@ import java.awt.Font;
 import java.awt.Graphics2D;
 import java.util.Vector;
 
-// todos
+// todos update
 // 1) Gestion des collisions et tests : 
 //      bilan actuel : algo left-right est optimal pour trous de souris passants mais mène au crash (effet entonnoir) pour trou de souris trop petit
 //      solution 1 : passer en always right pour les obstacles fixes, de type Location donc : OK ça améliore beaucoup mais pas 100% suffisant : 
